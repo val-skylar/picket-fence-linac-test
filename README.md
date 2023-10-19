@@ -1,2 +1,3 @@
 # picket-fence-linac-test
-This is an open source code made to realize the picket fence test for linear accelerators according to TG-42 of AAPM.  
+Mi nombre es Valeria García Zepeda, soy estudiante del posgrado en Ciencias Fisicomatemáticas de la Escuela Superior de Física y Matemáticas del IPN orientado a fisica médica.  
+Este es un código abierto para realizar la prueba picket fence de aceleradores lineales, acorde al TG-42 de la AAPM. 
